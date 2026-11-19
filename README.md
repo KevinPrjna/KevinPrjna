@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Kevin%20Prjna&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Junior%20Web%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&height=250&color=0:000000,100:a371f7&text=Kevin%20Prjna&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Junior%20Web%20Developer&descSize=22&descColor=FFFFFF&descAlign=50&descAlignY=60" width="100%" alt="Kevin Prjna Header"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=KevinPrjna">
