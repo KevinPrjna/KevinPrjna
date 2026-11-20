@@ -103,6 +103,9 @@ alt="KevinPrjna's GitHub Stats" />
   <a href="https://www.linkedin.com/in/kevin-prjna-76a72738a/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;
+  <a href="https://www.instagram.com/kevinprjna1/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="40" />
+  </a>&nbsp;
   <a href="https://wa.me/81382038099">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;
