@@ -26,7 +26,9 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/KevinPrjna">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KevinPrjna&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="KevinPrjna's GitHub Stats" />
+    <img height="180em"
+src="https://github-stats-extended.vercel.app/api?username=KevinPrjna&cache_seconds=7200&layout=compact&theme=radical&border_radius=10"
+alt="KevinPrjna's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=KevinPrjna&theme=radical&hide_border=true&cache_seconds=86400" alt="KevinPrjna's GitHub Streak" width="49%" />
 </p>
