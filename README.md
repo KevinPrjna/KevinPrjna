@@ -86,11 +86,14 @@
 
 <p align="center">
   <a href="https://github.com/KevinPrjna">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KevinPrjna&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPrjna&langs_count=8&layout=compact&theme=radical&border_radius=10"
+      alt="KevinPrjna's Top Languages"
+    />
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=KevinPrjna)
 <br/>
 
 ## 🔗 Connect with Me
